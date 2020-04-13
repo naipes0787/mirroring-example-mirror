@@ -1,2 +1,3 @@
 Test file created previous to the mirroring process
 New line
+Another new line :)
